@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/restaurantFinder/static/css/main.413d3a2c.chunk.css",
-    "main.js": "/restaurantFinder/static/js/main.fae91260.chunk.js",
-    "main.js.map": "/restaurantFinder/static/js/main.fae91260.chunk.js.map",
-    "runtime-main.js": "/restaurantFinder/static/js/runtime-main.9247636b.js",
-    "runtime-main.js.map": "/restaurantFinder/static/js/runtime-main.9247636b.js.map",
-    "static/js/2.f81bcc88.chunk.js": "/restaurantFinder/static/js/2.f81bcc88.chunk.js",
-    "static/js/2.f81bcc88.chunk.js.map": "/restaurantFinder/static/js/2.f81bcc88.chunk.js.map",
-    "index.html": "/restaurantFinder/index.html",
-    "precache-manifest.311ce8bcbcd65deba9fd3577cad43965.js": "/restaurantFinder/precache-manifest.311ce8bcbcd65deba9fd3577cad43965.js",
-    "service-worker.js": "/restaurantFinder/service-worker.js",
-    "static/css/main.413d3a2c.chunk.css.map": "/restaurantFinder/static/css/main.413d3a2c.chunk.css.map",
-    "static/js/2.f81bcc88.chunk.js.LICENSE.txt": "/restaurantFinder/static/js/2.f81bcc88.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/restaurantFinder/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/RestaurantFinder/static/css/main.35381939.chunk.css",
+    "main.js": "/RestaurantFinder/static/js/main.8ebe54d4.chunk.js",
+    "main.js.map": "/RestaurantFinder/static/js/main.8ebe54d4.chunk.js.map",
+    "runtime-main.js": "/RestaurantFinder/static/js/runtime-main.d7865a54.js",
+    "runtime-main.js.map": "/RestaurantFinder/static/js/runtime-main.d7865a54.js.map",
+    "static/js/2.f81bcc88.chunk.js": "/RestaurantFinder/static/js/2.f81bcc88.chunk.js",
+    "static/js/2.f81bcc88.chunk.js.map": "/RestaurantFinder/static/js/2.f81bcc88.chunk.js.map",
+    "index.html": "/RestaurantFinder/index.html",
+    "precache-manifest.63ef1340e5e5a8a8c58e0f906cf443fc.js": "/RestaurantFinder/precache-manifest.63ef1340e5e5a8a8c58e0f906cf443fc.js",
+    "service-worker.js": "/RestaurantFinder/service-worker.js",
+    "static/css/main.35381939.chunk.css.map": "/RestaurantFinder/static/css/main.35381939.chunk.css.map",
+    "static/js/2.f81bcc88.chunk.js.LICENSE.txt": "/RestaurantFinder/static/js/2.f81bcc88.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/RestaurantFinder/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9247636b.js",
+    "static/js/runtime-main.d7865a54.js",
     "static/js/2.f81bcc88.chunk.js",
-    "static/css/main.413d3a2c.chunk.css",
-    "static/js/main.fae91260.chunk.js"
+    "static/css/main.35381939.chunk.css",
+    "static/js/main.8ebe54d4.chunk.js"
   ]
 }
